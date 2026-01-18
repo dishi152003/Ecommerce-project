@@ -1,0 +1,289 @@
+@media (max-width: 900px) {
+  .pick-slider {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .pick-card {
+    margin: 8px 0 !important;
+  }
+}
+
+/* Hide scrollbars for pick-slider */
+.pick-slider {
+  scrollbar-width: none !important;
+  /* Firefox */
+  -ms-overflow-style: none !important;
+  /* IE 10+ */
+}
+
+.pick-slider::-webkit-scrollbar {
+  display: none !important;
+  /* Chrome/Safari/Webkit */
+}
+
+/* Hide scrollbars for pick-slider */
+.pick-slider {
+  scrollbar-width: none;
+  /* Firefox */
+  -ms-overflow-style: none;
+  /* IE 10+ */
+}
+
+.pick-slider::-webkit-scrollbar {
+  display: none;
+  /* Chrome/Safari/Webkit */
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+@keyframes zoom-out {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(0.94);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+.zoom-out {
+  animation: zoom-out 280ms ease;
+  transform-origin: center center;
+}
+
+/* Hide scrollbar for modern browsers */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+  overscroll-behavior-x: contain;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  height: 0;
+  /* hide horizontal scrollbar in WebKit */
+  width: 0;
+  /* hide vertical scrollbar in WebKit */
+  display: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+
+/* 3D styled pick cards */
+.pick-slider {
+  perspective: 1000px;
+}
+
+.pick-slider {
+  -ms-overflow-style: none !important;
+  /* IE and Edge */
+  scrollbar-width: none !important;
+  /* Firefox */
+}
+
+.pick-slider::-webkit-scrollbar {
+  height: 0 !important;
+  /* hide horizontal scrollbar in WebKit */
+  display: none !important;
+}
+
+.pick-slider::-webkit-scrollbar-thumb {
+  background: transparent !important;
+}
+
+.pick-card {
+  border-radius: 0.75rem;
+  overflow: hidden;
+  background: #ffffff;
+  box-shadow: 0 10px 25px rgba(2, 6, 23, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.02);
+  transform: translateZ(0);
+  transition: transform 420ms cubic-bezier(.2, .9, .2, 1), box-shadow 420ms ease;
+  transform-style: preserve-3d;
+}
+
+.pick-card img {
+  display: block;
+  width: 100%;
+  height: 5rem;
+  object-fit: contain;
+  background: #f3f4f6;
+}
+
+.pick-card .p-3 {
+  background: white;
+}
+
+.pick-card:hover {
+  transform: translateY(-8px) rotateX(6deg) scale(1.02);
+  box-shadow: 0 26px 40px rgba(2, 6, 23, 0.12);
+}
+
+/* Slider nav buttons */
+.slider-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 30;
+  width: 48px;
+  height: 48px;
+  border-radius: 9999px;
+  background: rgba(2, 6, 23, 0.65);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 24px rgba(2, 6, 23, 0.18);
+  cursor: pointer;
+  transition: transform 160ms ease, background 160ms ease, opacity 160ms ease;
+  opacity: 0.95;
+}
+
+.slider-nav:hover {
+  transform: translateY(-50%) scale(1.06);
+  opacity: 1;
+}
+
+.slider-nav.left {
+  left: -20px;
+}
+
+.slider-nav.right {
+  right: -20px;
+}
+
+.slider-nav svg {
+  color: #fff;
+}
+
+/* smaller screens: scale down and allow touch-friendly spacing */
+@media (max-width: 640px) {
+  .slider-nav {
+    width: 40px;
+    height: 40px;
+    left: 8px;
+    right: 8px;
+    opacity: 0.95;
+  }
+
+  .slider-nav.left {
+    left: 8px;
+  }
+
+  .slider-nav.right {
+    right: 8px;
+  }
+}
+
+/* ========================================
+   CUSTOM SCROLLBAR - BLUE THEME
+   ======================================== */
+
+/* For Webkit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1f2937;
+  /* Dark gray background */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #3b82f6 0%, #2563eb 100%);
+  /* Blue gradient */
+  border-radius: 10px;
+  border: 2px solid #1f2937;
+  transition: all 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #60a5fa 0%, #3b82f6 100%);
+  /* Lighter blue on hover */
+  border-color: #374151;
+  box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+}
+
+::-webkit-scrollbar-thumb:active {
+  background: linear-gradient(180deg, #2563eb 0%, #1d4ed8 100%);
+  /* Darker blue when active */
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #3b82f6 #1f2937;
+  /* thumb color, track color */
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar for light backgrounds */
+.light-scrollbar::-webkit-scrollbar-track {
+  background: #f3f4f6;
+}
+
+.light-scrollbar::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #3b82f6 0%, #2563eb 100%);
+  border: 2px solid #f3f4f6;
+}
+
+.light-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #60a5fa 0%, #3b82f6 100%);
+  box-shadow: 0 0 10px rgba(59, 130, 246, 0.3);
+}

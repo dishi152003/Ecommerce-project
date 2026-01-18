@@ -1,0 +1,736 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Kanjivaram Silk Saree - Royal Blue",
+            "category": "saree",
+            "subcategory": "silk",
+            "price": 12500,
+            "originalPrice": 15000,
+            "discount": 17,
+            "currency": "INR",
+            "description": "Authentic Kanjivaram silk saree with traditional temple border and rich zari work. Perfect for weddings and special occasions.",
+            "material": "Pure Silk",
+            "color": "Royal Blue",
+            "pattern": "Temple Border",
+            "length": "6.3 meters",
+            "blousePiece": "Yes (0.8 meters)",
+            "careInstructions": "Dry clean only",
+            "origin": "Kanchipuram, Tamil Nadu",
+            "inStock": true,
+            "stockQuantity": 15,
+            "rating": 4.8,
+            "reviews": 142,
+            "images": [
+                "/images/sarees/kanjivaram-blue-1.jpg",
+                "/images/sarees/kanjivaram-blue-2.jpg",
+                "/images/sarees/kanjivaram-blue-3.jpg"
+            ],
+            "features": [
+                "Pure Kanjivaram silk",
+                "Traditional temple border",
+                "Rich zari work",
+                "Includes blouse piece",
+                "Handwoven"
+            ],
+            "tags": [
+                "wedding",
+                "traditional",
+                "silk",
+                "luxury",
+                "handwoven"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Banarasi Silk Saree - Maroon",
+            "category": "saree",
+            "subcategory": "silk",
+            "price": 8999,
+            "originalPrice": 11999,
+            "discount": 25,
+            "currency": "INR",
+            "description": "Exquisite Banarasi silk saree with intricate brocade work and golden zari. A timeless piece for festive occasions.",
+            "material": "Pure Banarasi Silk",
+            "color": "Maroon",
+            "pattern": "Brocade",
+            "length": "6.3 meters",
+            "blousePiece": "Yes (0.8 meters)",
+            "careInstructions": "Dry clean only",
+            "origin": "Varanasi, Uttar Pradesh",
+            "inStock": true,
+            "stockQuantity": 22,
+            "rating": 4.7,
+            "reviews": 98,
+            "images": [
+                "/images/sarees/banarasi-maroon-1.jpg",
+                "/images/sarees/banarasi-maroon-2.jpg",
+                "/images/sarees/banarasi-maroon-3.jpg"
+            ],
+            "features": [
+                "Pure Banarasi silk",
+                "Intricate brocade work",
+                "Golden zari detailing",
+                "Includes blouse piece",
+                "Handwoven by artisans"
+            ],
+            "tags": [
+                "festive",
+                "traditional",
+                "silk",
+                "brocade",
+                "handwoven"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Cotton Saree - Floral Print",
+            "category": "saree",
+            "subcategory": "cotton",
+            "price": 1499,
+            "originalPrice": 1999,
+            "discount": 25,
+            "currency": "INR",
+            "description": "Comfortable cotton saree with beautiful floral prints. Perfect for daily wear and casual occasions.",
+            "material": "100% Cotton",
+            "color": "Multicolor",
+            "pattern": "Floral Print",
+            "length": "6.3 meters",
+            "blousePiece": "Yes (0.8 meters)",
+            "careInstructions": "Machine wash cold",
+            "origin": "India",
+            "inStock": true,
+            "stockQuantity": 45,
+            "rating": 4.5,
+            "reviews": 234,
+            "images": [
+                "/images/sarees/cotton-floral-1.jpg",
+                "/images/sarees/cotton-floral-2.jpg",
+                "/images/sarees/cotton-floral-3.jpg"
+            ],
+            "features": [
+                "100% pure cotton",
+                "Breathable fabric",
+                "Vibrant floral prints",
+                "Easy to maintain",
+                "Includes blouse piece"
+            ],
+            "tags": [
+                "casual",
+                "daily-wear",
+                "cotton",
+                "comfortable",
+                "affordable"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Chanderi Silk Saree - Pastel Pink",
+            "category": "saree",
+            "subcategory": "silk",
+            "price": 5499,
+            "originalPrice": 7499,
+            "discount": 27,
+            "currency": "INR",
+            "description": "Elegant Chanderi silk saree with delicate zari motifs. Lightweight and perfect for summer occasions.",
+            "material": "Chanderi Silk",
+            "color": "Pastel Pink",
+            "pattern": "Zari Motifs",
+            "length": "6.3 meters",
+            "blousePiece": "Yes (0.8 meters)",
+            "careInstructions": "Dry clean recommended",
+            "origin": "Chanderi, Madhya Pradesh",
+            "inStock": true,
+            "stockQuantity": 18,
+            "rating": 4.6,
+            "reviews": 76,
+            "images": [
+                "/images/sarees/chanderi-pink-1.jpg",
+                "/images/sarees/chanderi-pink-2.jpg",
+                "/images/sarees/chanderi-pink-3.jpg"
+            ],
+            "features": [
+                "Lightweight Chanderi silk",
+                "Delicate zari motifs",
+                "Perfect for summer",
+                "Elegant drape",
+                "Includes blouse piece"
+            ],
+            "tags": [
+                "elegant",
+                "lightweight",
+                "silk",
+                "summer",
+                "traditional"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Georgette Saree - Black & Gold",
+            "category": "saree",
+            "subcategory": "georgette",
+            "price": 2999,
+            "originalPrice": 4499,
+            "discount": 33,
+            "currency": "INR",
+            "description": "Stunning georgette saree with golden embroidery and sequin work. Perfect for parties and evening events.",
+            "material": "Georgette",
+            "color": "Black with Gold",
+            "pattern": "Embroidered",
+            "length": "6.3 meters",
+            "blousePiece": "Yes (0.8 meters)",
+            "careInstructions": "Dry clean only",
+            "origin": "India",
+            "inStock": true,
+            "stockQuantity": 30,
+            "rating": 4.4,
+            "reviews": 156,
+            "images": [
+                "/images/sarees/georgette-black-1.jpg",
+                "/images/sarees/georgette-black-2.jpg",
+                "/images/sarees/georgette-black-3.jpg"
+            ],
+            "features": [
+                "Premium georgette fabric",
+                "Golden embroidery",
+                "Sequin work",
+                "Party wear",
+                "Includes blouse piece"
+            ],
+            "tags": [
+                "party-wear",
+                "embroidered",
+                "modern",
+                "elegant",
+                "evening"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Men's Cotton Lungi - Traditional Check",
+            "category": "lungi",
+            "subcategory": "cotton",
+            "price": 599,
+            "originalPrice": 799,
+            "discount": 25,
+            "currency": "INR",
+            "description": "Comfortable cotton lungi with traditional check pattern. Perfect for daily wear and lounging.",
+            "material": "100% Cotton",
+            "color": "Multicolor Check",
+            "pattern": "Check",
+            "length": "2 meters",
+            "width": "1.2 meters",
+            "careInstructions": "Machine wash",
+            "origin": "Tamil Nadu",
+            "inStock": true,
+            "stockQuantity": 100,
+            "rating": 4.6,
+            "reviews": 312,
+            "images": [
+                "/images/lungis/cotton-check-1.jpg",
+                "/images/lungis/cotton-check-2.jpg"
+            ],
+            "features": [
+                "100% pure cotton",
+                "Breathable fabric",
+                "Traditional check pattern",
+                "Easy to wear",
+                "Durable"
+            ],
+            "tags": [
+                "daily-wear",
+                "cotton",
+                "traditional",
+                "comfortable",
+                "affordable"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Men's Silk Lungi - Festive Gold",
+            "category": "lungi",
+            "subcategory": "silk",
+            "price": 1299,
+            "originalPrice": 1799,
+            "discount": 28,
+            "currency": "INR",
+            "description": "Premium silk lungi with golden border. Perfect for festivals and special occasions.",
+            "material": "Art Silk",
+            "color": "Cream with Gold Border",
+            "pattern": "Plain with Border",
+            "length": "2 meters",
+            "width": "1.2 meters",
+            "careInstructions": "Dry clean recommended",
+            "origin": "Kerala",
+            "inStock": true,
+            "stockQuantity": 45,
+            "rating": 4.5,
+            "reviews": 89,
+            "images": [
+                "/images/lungis/silk-gold-1.jpg",
+                "/images/lungis/silk-gold-2.jpg"
+            ],
+            "features": [
+                "Premium art silk",
+                "Golden zari border",
+                "Festive wear",
+                "Elegant finish",
+                "Traditional design"
+            ],
+            "tags": [
+                "festive",
+                "silk",
+                "traditional",
+                "premium",
+                "special-occasion"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Men's Cotton Lungi - Solid Color",
+            "category": "lungi",
+            "subcategory": "cotton",
+            "price": 499,
+            "originalPrice": 699,
+            "discount": 29,
+            "currency": "INR",
+            "description": "Simple and comfortable solid color cotton lungi. Ideal for everyday use.",
+            "material": "100% Cotton",
+            "color": "Navy Blue",
+            "pattern": "Solid",
+            "length": "2 meters",
+            "width": "1.2 meters",
+            "careInstructions": "Machine wash",
+            "origin": "India",
+            "inStock": true,
+            "stockQuantity": 150,
+            "rating": 4.7,
+            "reviews": 445,
+            "images": [
+                "/images/lungis/cotton-solid-1.jpg",
+                "/images/lungis/cotton-solid-2.jpg"
+            ],
+            "features": [
+                "100% pure cotton",
+                "Solid color",
+                "Soft and comfortable",
+                "Easy maintenance",
+                "Value for money"
+            ],
+            "tags": [
+                "daily-wear",
+                "cotton",
+                "simple",
+                "comfortable",
+                "affordable"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Patola Silk Saree - Green & Red",
+            "category": "saree",
+            "subcategory": "silk",
+            "price": 18999,
+            "originalPrice": 24999,
+            "discount": 24,
+            "currency": "INR",
+            "description": "Authentic double ikat Patola silk saree with intricate geometric patterns. A collector's piece.",
+            "material": "Pure Silk",
+            "color": "Green and Red",
+            "pattern": "Double Ikat",
+            "length": "6.3 meters",
+            "blousePiece": "Yes (0.8 meters)",
+            "careInstructions": "Dry clean only",
+            "origin": "Patan, Gujarat",
+            "inStock": true,
+            "stockQuantity": 8,
+            "rating": 4.9,
+            "reviews": 45,
+            "images": [
+                "/images/sarees/patola-green-1.jpg",
+                "/images/sarees/patola-green-2.jpg",
+                "/images/sarees/patola-green-3.jpg"
+            ],
+            "features": [
+                "Authentic Patola silk",
+                "Double ikat weaving",
+                "Geometric patterns",
+                "Collector's item",
+                "Handwoven masterpiece"
+            ],
+            "tags": [
+                "luxury",
+                "traditional",
+                "silk",
+                "handwoven",
+                "premium"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Tussar Silk Saree - Mustard Yellow",
+            "category": "saree",
+            "subcategory": "silk",
+            "price": 4599,
+            "originalPrice": 6499,
+            "discount": 29,
+            "currency": "INR",
+            "description": "Natural Tussar silk saree with tribal prints. Eco-friendly and elegant.",
+            "material": "Tussar Silk",
+            "color": "Mustard Yellow",
+            "pattern": "Tribal Print",
+            "length": "6.3 meters",
+            "blousePiece": "Yes (0.8 meters)",
+            "careInstructions": "Dry clean recommended",
+            "origin": "Jharkhand",
+            "inStock": true,
+            "stockQuantity": 25,
+            "rating": 4.6,
+            "reviews": 67,
+            "images": [
+                "/images/sarees/tussar-yellow-1.jpg",
+                "/images/sarees/tussar-yellow-2.jpg",
+                "/images/sarees/tussar-yellow-3.jpg"
+            ],
+            "features": [
+                "Natural Tussar silk",
+                "Eco-friendly",
+                "Tribal prints",
+                "Unique texture",
+                "Includes blouse piece"
+            ],
+            "tags": [
+                "eco-friendly",
+                "traditional",
+                "silk",
+                "tribal",
+                "natural"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Chiffon Saree - Lavender Gradient",
+            "category": "saree",
+            "subcategory": "chiffon",
+            "price": 1999,
+            "originalPrice": 2999,
+            "discount": 33,
+            "currency": "INR",
+            "description": "Lightweight chiffon saree with beautiful gradient effect and pearl work on the border.",
+            "material": "Chiffon",
+            "color": "Lavender Gradient",
+            "pattern": "Gradient with Pearl Border",
+            "length": "6.3 meters",
+            "blousePiece": "Yes (0.8 meters)",
+            "careInstructions": "Hand wash or dry clean",
+            "origin": "India",
+            "inStock": true,
+            "stockQuantity": 38,
+            "rating": 4.5,
+            "reviews": 123,
+            "images": [
+                "/images/sarees/chiffon-lavender-1.jpg",
+                "/images/sarees/chiffon-lavender-2.jpg",
+                "/images/sarees/chiffon-lavender-3.jpg"
+            ],
+            "features": [
+                "Lightweight chiffon",
+                "Gradient color effect",
+                "Pearl border work",
+                "Easy to drape",
+                "Includes blouse piece"
+            ],
+            "tags": [
+                "modern",
+                "lightweight",
+                "party-wear",
+                "gradient",
+                "elegant"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Men's Mundu - Kerala Traditional White",
+            "category": "lungi",
+            "subcategory": "cotton",
+            "price": 899,
+            "originalPrice": 1299,
+            "discount": 31,
+            "currency": "INR",
+            "description": "Traditional Kerala mundu in pure cotton with golden border. Perfect for festivals and ceremonies.",
+            "material": "100% Cotton",
+            "color": "White with Gold Border",
+            "pattern": "Plain with Zari Border",
+            "length": "2 meters",
+            "width": "1.2 meters",
+            "careInstructions": "Hand wash recommended",
+            "origin": "Kerala",
+            "inStock": true,
+            "stockQuantity": 60,
+            "rating": 4.8,
+            "reviews": 178,
+            "images": [
+                "/images/lungis/mundu-white-1.jpg",
+                "/images/lungis/mundu-white-2.jpg"
+            ],
+            "features": [
+                "Pure cotton fabric",
+                "Traditional Kerala style",
+                "Golden zari border",
+                "Ceremonial wear",
+                "Authentic design"
+            ],
+            "tags": [
+                "traditional",
+                "festive",
+                "kerala",
+                "ceremonial",
+                "cotton"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Bandhani Saree - Rajasthani Red",
+            "category": "saree",
+            "subcategory": "cotton",
+            "price": 3499,
+            "originalPrice": 4999,
+            "discount": 30,
+            "currency": "INR",
+            "description": "Authentic Rajasthani Bandhani saree with traditional tie-dye patterns. Vibrant and colorful.",
+            "material": "Cotton Silk",
+            "color": "Red with Multicolor",
+            "pattern": "Bandhani (Tie-Dye)",
+            "length": "6.3 meters",
+            "blousePiece": "Yes (0.8 meters)",
+            "careInstructions": "Dry clean recommended",
+            "origin": "Rajasthan",
+            "inStock": true,
+            "stockQuantity": 20,
+            "rating": 4.7,
+            "reviews": 92,
+            "images": [
+                "/images/sarees/bandhani-red-1.jpg",
+                "/images/sarees/bandhani-red-2.jpg",
+                "/images/sarees/bandhani-red-3.jpg"
+            ],
+            "features": [
+                "Authentic Bandhani work",
+                "Traditional tie-dye",
+                "Vibrant colors",
+                "Cotton silk blend",
+                "Includes blouse piece"
+            ],
+            "tags": [
+                "traditional",
+                "rajasthani",
+                "bandhani",
+                "colorful",
+                "handcrafted"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Linen Saree - Beige with Temple Border",
+            "category": "saree",
+            "subcategory": "linen",
+            "price": 2799,
+            "originalPrice": 3999,
+            "discount": 30,
+            "currency": "INR",
+            "description": "Premium linen saree with traditional temple border. Perfect for office and formal occasions.",
+            "material": "100% Linen",
+            "color": "Beige",
+            "pattern": "Temple Border",
+            "length": "6.3 meters",
+            "blousePiece": "Yes (0.8 meters)",
+            "careInstructions": "Dry clean or hand wash",
+            "origin": "India",
+            "inStock": true,
+            "stockQuantity": 32,
+            "rating": 4.6,
+            "reviews": 104,
+            "images": [
+                "/images/sarees/linen-beige-1.jpg",
+                "/images/sarees/linen-beige-2.jpg",
+                "/images/sarees/linen-beige-3.jpg"
+            ],
+            "features": [
+                "100% pure linen",
+                "Breathable fabric",
+                "Temple border design",
+                "Formal wear",
+                "Includes blouse piece"
+            ],
+            "tags": [
+                "formal",
+                "linen",
+                "office-wear",
+                "comfortable",
+                "elegant"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Men's Dhoti - Traditional White",
+            "category": "lungi",
+            "subcategory": "cotton",
+            "price": 699,
+            "originalPrice": 999,
+            "discount": 30,
+            "currency": "INR",
+            "description": "Traditional white dhoti in soft cotton. Perfect for religious ceremonies and traditional events.",
+            "material": "100% Cotton",
+            "color": "White",
+            "pattern": "Plain",
+            "length": "4 meters",
+            "width": "1.2 meters",
+            "careInstructions": "Machine wash",
+            "origin": "India",
+            "inStock": true,
+            "stockQuantity": 80,
+            "rating": 4.7,
+            "reviews": 267,
+            "images": [
+                "/images/lungis/dhoti-white-1.jpg",
+                "/images/lungis/dhoti-white-2.jpg"
+            ],
+            "features": [
+                "Pure cotton",
+                "Traditional white",
+                "Soft fabric",
+                "Religious ceremonies",
+                "Easy to wear"
+            ],
+            "tags": [
+                "traditional",
+                "religious",
+                "ceremonial",
+                "cotton",
+                "white"
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Saree",
+            "slug": "saree",
+            "description": "Traditional Indian sarees in various fabrics and styles",
+            "count": 11
+        },
+        {
+            "id": 2,
+            "name": "Lungi",
+            "slug": "lungi",
+            "description": "Traditional men's wear including lungis, mundus, and dhotis",
+            "count": 4
+        }
+    ],
+    "subcategories": [
+        {
+            "id": 1,
+            "name": "Silk Sarees",
+            "slug": "silk",
+            "parentCategory": "saree",
+            "count": 6
+        },
+        {
+            "id": 2,
+            "name": "Cotton Sarees",
+            "slug": "cotton",
+            "parentCategory": "saree",
+            "count": 2
+        },
+        {
+            "id": 3,
+            "name": "Georgette Sarees",
+            "slug": "georgette",
+            "parentCategory": "saree",
+            "count": 1
+        },
+        {
+            "id": 4,
+            "name": "Chiffon Sarees",
+            "slug": "chiffon",
+            "parentCategory": "saree",
+            "count": 1
+        },
+        {
+            "id": 5,
+            "name": "Linen Sarees",
+            "slug": "linen",
+            "parentCategory": "saree",
+            "count": 1
+        },
+        {
+            "id": 6,
+            "name": "Cotton Lungis",
+            "slug": "cotton",
+            "parentCategory": "lungi",
+            "count": 3
+        },
+        {
+            "id": 7,
+            "name": "Silk Lungis",
+            "slug": "silk",
+            "parentCategory": "lungi",
+            "count": 1
+        }
+    ],
+    "filters": {
+        "priceRanges": [
+            {
+                "label": "Under ₹1000",
+                "min": 0,
+                "max": 1000
+            },
+            {
+                "label": "₹1000 - ₹5000",
+                "min": 1000,
+                "max": 5000
+            },
+            {
+                "label": "₹5000 - ₹10000",
+                "min": 5000,
+                "max": 10000
+            },
+            {
+                "label": "₹10000 - ₹20000",
+                "min": 10000,
+                "max": 20000
+            },
+            {
+                "label": "Above ₹20000",
+                "min": 20000,
+                "max": 999999
+            }
+        ],
+        "materials": [
+            "Silk",
+            "Cotton",
+            "Georgette",
+            "Chiffon",
+            "Linen",
+            "Art Silk"
+        ],
+        "occasions": [
+            "Wedding",
+            "Festive",
+            "Party",
+            "Daily Wear",
+            "Office",
+            "Ceremonial"
+        ],
+        "colors": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow",
+            "Pink",
+            "Black",
+            "White",
+            "Multicolor"
+        ]
+    }
+}
